@@ -121,4 +121,4 @@ Execute the program
 </html>
 ```
 # OUTPUT
-![Slot Time-table Sajetha](timetable.png)
+![timetable](https://github.com/Ravi-1105/slot/assets/139841688/247d2030-7953-44d3-9721-47a094d075a1)
